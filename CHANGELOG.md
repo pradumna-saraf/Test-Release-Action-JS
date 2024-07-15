@@ -1,3 +1,12 @@
+## [2.7.3](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.2...v2.7.3) (2024-07-15)
+
+
+### Bug Fixes
+
+* Update releases.yml ([fc14705](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/fc14705f4e642e3632584c48a349a8c9b356602b))
+
+
+
 ## [2.7.2](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.1...v2.7.2) (2024-07-15)
 
 

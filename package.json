@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "biodrop-cli",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "description": "Generate BioDrop profile.json file via CLI",
   "main": "src/index.js",
   "bin": "src/index.js",
