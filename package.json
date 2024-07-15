@@ -1,0 +1,51 @@
+{
+  "type": "module",
+  "name": "biodrop-cli",
+  "version": "2.7.0",
+  "description": "Generate BioDrop profile.json file via CLI",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "format": "prettier --write .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "keywords": [
+    "CLI",
+    "Node CLI",
+    "BioDrop-cli",
+    "BioDrop"
+  ],
+  "files": [
+    "src",
+    "package.json",
+    "util",
+    "createUser.js"
+  ],
+  "author": "Pradumna Saraf",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "enquirer": "^2.3.6",
+    "json-format": "^1.0.1",
+    "open": "^9.1.0",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "prettier": "^2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradumnasaraf/BioDrop-CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pradumnasaraf/BioDrop-CLI.git/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
