@@ -1,3 +1,12 @@
+# [2.8.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.3...v2.8.0) (2024-07-15)
+
+
+### Features
+
+* Update releases.yml ([f4178ae](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/f4178aee72148b895be2875583ed1ae62e3e0d00))
+
+
+
 ## [2.7.3](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.2...v2.7.3) (2024-07-15)
 
 
