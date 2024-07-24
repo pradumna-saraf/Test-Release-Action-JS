@@ -1,3 +1,21 @@
+## [4.0.1](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v4.1.0...v4.0.1) (2024-07-24)
+
+
+### Bug Fixes
+
+* Update releases.yml ([282d07e](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/282d07eb4040ec70dc98cc651ec67fc0d74326b5))
+
+
+
+# [4.1.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v4.0.0...v4.1.0) (2024-07-24)
+
+
+### Features
+
+* Update releases.yml ([88d65fc](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/88d65fc456f1a749145ab8e2615bb79e51356faa))
+
+
+
 # [4.0.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v3.0.0...v4.0.0) (2024-07-24)
 
 
@@ -28,24 +46,6 @@
 ### Features
 
 * Update releases.yml ([f4178ae](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/f4178aee72148b895be2875583ed1ae62e3e0d00))
-
-
-
-## [2.7.3](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.2...v2.7.3) (2024-07-15)
-
-
-### Bug Fixes
-
-* Update releases.yml ([fc14705](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/fc14705f4e642e3632584c48a349a8c9b356602b))
-
-
-
-## [2.7.2](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.1...v2.7.2) (2024-07-15)
-
-
-### Bug Fixes
-
-* Update releases.yml ([d0b210b](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/d0b210bc451d51908e2e9edae8f12f4c4a19725e))
 
 
 
