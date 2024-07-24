@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.8.0...v3.0.0) (2024-07-24)
+
+
+* BREAKING CHANGE: Update README.md ([ce0ee0c](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/ce0ee0c9c47e29f7f76456086f9e7627f22fef9b))
+
+
+### BREAKING CHANGES
+
+* 
+
+
+
 # [2.8.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.7.3...v2.8.0) (2024-07-15)
 
 
