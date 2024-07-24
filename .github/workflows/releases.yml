@@ -21,6 +21,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           version-file: './package.json,./package-lock.json'
+          skip-commit: "true"
 
       - name: create release
         if: steps.changelog.outputs.skipped == 'false'
