@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v3.0.0...v4.0.0) (2024-07-24)
+
+
+* V2 ([5822ca5](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/5822ca5d7209f7c5a09d3a17f348862f2f5da806))
+
+
+### BREAKING CHANGES
+
+* 
+
+
+
 # [3.0.0](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/v2.8.0...v3.0.0) (2024-07-24)
 
 
@@ -34,16 +46,6 @@
 ### Bug Fixes
 
 * Update releases.yml ([d0b210b](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/d0b210bc451d51908e2e9edae8f12f4c4a19725e))
-
-
-
-## [2.7.1](https://github.com/Pradumnasaraf/BioDrop-CLI/compare/4173ad93337ca0af076609fbe41357ebca087084...v2.7.1) (2024-07-15)
-
-
-### Bug Fixes
-
-* Create releases.yml ([4173ad9](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/4173ad93337ca0af076609fbe41357ebca087084))
-* Update releases.yml ([59ac3d9](https://github.com/Pradumnasaraf/BioDrop-CLI/commit/59ac3d9213360c68e800e8384938e5c6ec1b0b6b))
 
 
 
